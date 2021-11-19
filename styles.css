@@ -31,6 +31,10 @@ p {
     padding: 10px;
 }
 
+#d {
+    font-family: "Arial";
+}
+
 a:hover {
     color:magenta;
 }
@@ -43,10 +47,10 @@ a:hover {
     color: grey;
 }
 
- #p5 {
+#p5 {
      color: grey;
- }
+}
 
- #p7 {
+#p7 {
      color: grey;
- }
+}
