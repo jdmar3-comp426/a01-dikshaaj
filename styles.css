@@ -1,0 +1,60 @@
+body {
+    background-color: #decdbf;
+}
+
+h1 {
+    font-size: 50px;
+    color: darkblue;
+    background-color: #41b6ab;
+    text-align: center;
+    width: 500px;
+}
+
+h2 {
+    font-size: 30px;
+    color:darkcyan;
+}   
+
+p {
+    margin: 30px;
+}
+
+.center {
+    text-align: center;
+    font-family: "Monotype Corsiva";
+}
+
+#p8 {
+    border-style: dotted;
+    border-color: darkblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+p i {
+    color: green;
+}
+
+#d {
+    font-family: "Arial";
+}
+
+a:hover {
+    color:magenta;
+}
+
+#p1 {
+    color: grey;
+}
+
+#p3 {
+    color: grey;
+}
+
+#p5 {
+     color: grey;
+}
+
+#p7 {
+     color: grey;
+}
