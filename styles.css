@@ -31,6 +31,10 @@ p {
     padding: 10px;
 }
 
+.special {
+    color: grey;
+}
+
 #d {
     font-family: "Arial";
 }
