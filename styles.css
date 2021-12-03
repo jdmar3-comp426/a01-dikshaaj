@@ -31,8 +31,8 @@ p {
     padding: 10px;
 }
 
-.special {
-    color: grey;
+p i {
+    color: green;
 }
 
 #d {
